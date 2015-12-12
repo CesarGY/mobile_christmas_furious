@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1449787311
+#1449904848
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -42,7 +42,6 @@ images/bubble_bum-sheet0.png
 images/bubble_gift_01-sheet0.png
 images/bubble_gift_03-sheet0.png
 images/bubble_gift_05-sheet0.png
-images/bubble_gift_02-sheet0.png
 images/gift_01-sheet0.png
 images/gift_03-sheet0.png
 images/gift_05-sheet0.png
@@ -86,11 +85,7 @@ images/life-sheet1.png
 images/life-sheet2.png
 images/final_font.png
 images/tutorial-sheet0.png
-images/tutorial-sheet1.png
-images/sprite-sheet0.png
-images/sprite2-sheet0.png
-images/sprite3-sheet0.png
-images/sprite4-sheet0.png
+images/final_tree_colition-sheet0.png
 media/bubble.m4a
 media/bubble.ogg
 media/explosion_big.m4a
