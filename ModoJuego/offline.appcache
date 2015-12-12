@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1449904848
+#1449941817
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -86,6 +86,8 @@ images/life-sheet2.png
 images/final_font.png
 images/tutorial-sheet0.png
 images/final_tree_colition-sheet0.png
+images/sprite-sheet0.png
+images/sprite2-sheet0.png
 media/bubble.m4a
 media/bubble.ogg
 media/explosion_big.m4a
